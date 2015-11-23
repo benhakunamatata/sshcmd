@@ -1,0 +1,2 @@
+# sshcmd
+ssh command line
